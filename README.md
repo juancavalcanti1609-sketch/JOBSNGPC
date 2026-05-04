@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Sobre o Projeto
+--> Sobre o Projeto
 
 Automação desenvolvida em **T-SQL (SQL Server)** para validação e atualização de registros do Ministério da Saúde (MS) em produtos farmacêuticos.
 
