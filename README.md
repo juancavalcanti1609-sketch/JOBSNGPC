@@ -15,7 +15,7 @@ O projeto foi criado para atender exigências do **SNGPC (Sistema Nacional de Ge
 
 ---
 
-## ⚙️ Problema
+--> Problema
 
 O SNGPC exige que os registros de medicamentos estejam sempre atualizados.
 
@@ -28,7 +28,7 @@ Desafios encontrados:
 
 ---
 
-## 💡 Solução
+--> Solução
 
 A automação realiza:
 
@@ -40,7 +40,7 @@ A automação realiza:
 
 ---
 
-## 🧠 Regras de Negócio
+--> Regras de Negócio
 
 A atualização só ocorre quando:
 
@@ -54,4 +54,15 @@ A atualização só ocorre quando:
 
 ---
 
-## 🏗️ Estrutura do Projeto
+--> Execução
+
+A solução é executada como uma **JOB no SQL Server**, sendo acionada conforme necessidade de validação e atualização.
+
+---
+
+--> Benefícios
+
+- ⏱️ Redução significativa de tempo operacional  
+- 🎯 Maior confiabilidade nos dados  
+- 🔄 Processo automatizado  
+- ⚖️ Redução de riscos regulatórios
